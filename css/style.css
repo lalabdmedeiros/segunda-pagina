@@ -20,7 +20,6 @@ header .header-content {
   padding: 100px 15px 100px;
   width: 100%;
 }
-
 @media (min-width: 768px) {
   header {
     min-height: 100%;
